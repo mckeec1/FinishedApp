@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Travel Budget</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_options_screen1">optionsScreen1</string>
+    <string name="title_activity_mpg_menu">mpgMenu</string>
+    <string name="title_activity_people">people</string>
+    <string name="title_activity_food">food</string>
+    <string name="title_activity_hotel">hotel</string>
+    <string name="title_activity_taxes">taxes</string>
+    <string name="title_activity_compiler">compiler</string>
+    <string name="title_activity_progress_screen">progressScreen</string>
+    <string name="mpg">MPG</string>
+    <string name="title_activity_final_page">finalPage</string>
+    <string name="title_activity_share_preferencs">SharePreferencs</string>
+    <string name="title_activity_addition">addition</string>
+    <string name="title_activity_total_map">totalMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_charts">charts</string>
+</resources>
